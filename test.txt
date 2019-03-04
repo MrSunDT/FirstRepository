@@ -1,0 +1,12 @@
+1,wz
+2,ww
+3,wz
+4,ww
+5,wz
+6,ww
+7,wz
+8,ww
+9,wz
+10,ww
+11,wz
+12,ww
